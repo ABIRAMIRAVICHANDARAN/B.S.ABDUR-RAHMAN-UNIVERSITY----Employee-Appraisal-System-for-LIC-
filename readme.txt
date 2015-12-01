@@ -1,3 +1,7 @@
+B.S.ABDUR RAHMAN UNIVERSITY
+
+This project was developed as a part of the curriculum for the course Internet Programming Lab
+
 EMPLOYEE APPRAISAL SYSTEM FOR LIC
 
 Project done by:
